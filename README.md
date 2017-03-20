@@ -1,2 +1,2 @@
 # Angular2_Image_Glitch
-My portfolio site
+An image glitcher for Angular2
