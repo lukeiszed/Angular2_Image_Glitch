@@ -1,0 +1,16 @@
+{
+  "name": "glitchimage",
+  "version": "1.0.2",
+  "description": "An image glitcher for angular 2",
+  "main": "glitchimage.component.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "glitch",
+    "ng2",
+    "angular"
+  ],
+  "author": "lukeiszed (Luca Bottazzi)",
+  "license": "MIT"
+}
